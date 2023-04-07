@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Hungry Developer2</string>
+    <string name="the_hungry_developer">The Hungry Developer</string>
+    <string name="bob_kraemer_android_gmail_com">bob.kraemer.android@gmail.com</string>
+    <string name="starters">Starters</string>
+    <string name="dog">dog</string>
+    <string name="boy">boy</string>
+    <string name="main_courses">Main Courses</string>
+    <string name="boy2">boy2</string>
+    <string name="desserts">Desserts</string>
+</resources>
